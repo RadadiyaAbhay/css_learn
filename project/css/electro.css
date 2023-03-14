@@ -1,0 +1,142 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.box{
+    width: 1320px;
+    height: auto;
+    background-color: rgb(0, 16, 197);
+    margin: 0 auto;
+}
+.box1{
+    width: 1320px;
+    height: 40px;
+    background-color:#1E1F29;
+    
+}
+.box2{
+    width: 1320px;
+    height: 100px;
+    background-color:#15161D; 
+    
+}
+.box3{
+    width: 1320px;
+    height: 4px;
+    background-color:#D10024; 
+    
+}
+.box4{
+    background-color: #FFFFFF;
+    width: 1320px;
+    height: 50px;
+}
+.box5{
+    background-color: #E4E7ED;
+    width: 1320px;
+    height: 3px;
+}
+.box6{
+    background-color: #FFFFFF;
+    width: 1320px;
+    height: 40px;
+}
+.box7{
+    background-color: #FFFFFF;
+    width: 1320px;
+    height: 200px;
+}
+.box01{
+    background-color: #b12c2c;
+    width: 420px;
+    height: 250px;
+    margin: 0 30px 0 0;
+    float: left;
+}
+.box02{
+    background-color: #b12c2c;
+    width: 420px;
+    height: 250px;
+    margin: 0 30px 0 0;
+    float: left;
+}
+.box03{
+    background-color: #b12c2c;
+    width: 420px;
+    height: 250px;
+    margin: 0 0 0 0;
+    float: left;
+}
+a{
+    color:black
+}
+.box001{
+    float:left;
+    background-color: #FFFFFF;
+    padding:20px 20px 0 20px ;
+}
+.box002{
+    float:left;
+    background-color: #FFFFFF;
+    padding:20px 20px 0 20px ;
+}
+.box003{
+    float:left;
+    background-color: #FFFFFF;
+    padding:20px 20px 0 20px ;
+}
+.box004{
+    float:left;
+    background-color: #FFFFFF;
+    padding:20px 20px 0 20px ;
+}
+.box005{
+    float:left;
+    background-color: #FFFFFF;
+    padding:20px 20px 0 20px ;
+}
+.box006{
+    float:left;
+    background-color: #FFFFFF;
+    padding:20px 20px 0 20px ;
+}
+.box007{
+    float:left;
+    background-color: #FFFFFF;
+    padding:20px 20px 0 20px ;
+}
+.box001:hover a{
+    color: #D10024;
+    text-decoration:underline;
+    text-decoration-color: #D10024;
+}
+.box002:hover a{
+    color: #D10024;
+    text-decoration:underline;
+    text-decoration-color: #D10024;
+}
+.box003:hover a{
+    color: #D10024;
+    text-decoration:underline;
+    text-decoration-color: #D10024;
+}
+.box004:hover a{
+    color: #D10024;
+    text-decoration:underline;
+    text-decoration-color: #D10024;
+}
+.box005:hover a{
+    color: #D10024;
+    text-decoration:underline;
+    text-decoration-color: #D10024;
+}
+.box006:hover a{
+    color: #D10024;
+    text-decoration:underline;
+    text-decoration-color: #D10024;
+}
+.box007:hover a{
+    color: #D10024;
+    text-decoration:underline;
+    text-decoration-color: #D10024;
+}

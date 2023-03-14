@@ -1,0 +1,56 @@
+.box{
+    position: static;
+    background-color: black;
+    height: 500px;
+    width:500px;
+    margin: 0 auto;
+}
+.box2{
+    position: relative;
+    background-color: rgb(184, 69, 69);
+    height: 500px;
+    width:500px;
+    margin: 0 auto;
+    bottom: 510px;
+    right: 150px;
+
+}
+.box3{
+    position: absolute;
+    background-color: rgb(120, 17, 198);
+    height: 500px;
+    width:500px;
+    margin: 0 auto;
+    top:30px
+
+}
+.box4{
+    /* position: sticky; */
+    background-color: rgb(70, 173, 46);
+    height: 500px;
+    width:500px;
+    margin: 0 auto;
+    top:30px;
+    bottom: 50px;
+  
+}
+.box5{
+    position: fixed;
+    background-color: rgb(77, 156, 114);
+    height: 50px;
+    width:50px;
+    margin: 0 0;
+    top:30px;
+    bottom: 50px;
+  
+}
+.box6{
+    position: static;
+    background-color: rgb(34, 167, 63);
+    height: 500px;
+    width:500px;
+    margin: 0 auto;
+    top:30px;
+    bottom: 50px;
+    z-index: 10px;
+}

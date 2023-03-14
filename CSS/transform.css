@@ -1,0 +1,160 @@
+.box{
+    height: 800px;
+    width: 800px;
+    background-color:  rgb(246, 248, 248);
+    margin:0 auto;
+    position: relative;
+    background-image: url(images/chess.jpg);
+
+}
+.box2{
+    height: 450px;
+    width: 500px;
+    background-color: rgb(246, 248, 248);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% ,-50%);
+    z-index:1;
+    border-top-left-radius:90% ;
+    border-top-right-radius: 90%;
+    border-bottom-left-radius: 90%;
+    border-bottom-right-radius: 90%;
+}
+.box3{
+    height: 470px;
+    width: 520px;
+    background-color: rgb(5, 5, 5);
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% ,-50%);
+    z-index:1;
+    border-top-left-radius:90% ;
+    border-top-right-radius: 90%;
+    border-bottom-left-radius: 90%;
+    border-bottom-right-radius: 90%;
+}
+.box4{
+    height: 190px;
+    width: 150px;
+    background-color: rgb(5, 5, 5);
+    border-radius: 50%;
+    position: absolute;
+    top: 21%;
+    left:17%;
+    transform: rotate(10deg);
+    
+}
+.box5{
+    height: 190px;
+    width: 150px;
+    background-color: rgb(5, 5, 5);
+    border-radius: 50%;
+    position: absolute;
+    top: 21%;
+    right:17%;
+    transform: rotate(-10deg);
+    
+}
+.box6{
+    height: 130px;
+    width: 120px;
+    background-color:  rgb(5, 5, 5);
+    border-radius: 49%;
+    position: absolute;
+    top: 30%;
+    left:15%;
+    transform: skew(-10deg);
+   
+}
+.box7{
+    height: 130px;
+    width: 120px;
+    background-color:  rgb(5, 5, 5);
+    border-radius: 49%;
+    position: absolute;
+    top: 30%;
+    right:15%;
+    transform: skew(10deg);
+   
+    
+    
+}
+.box8{
+    height: 30px;
+    width: 20px;
+    background-color:  rgb(246, 248, 248);
+    border-radius: 49%;
+    position: absolute;
+    top: 40%;
+    left:30%;
+    transform: skew(-19deg);
+   
+}
+.box9{
+    height: 30px;
+    width: 20px;
+    background-color:  rgb(246, 248, 248);
+    border-radius: 49%;
+    position: absolute;
+    top: 40%;
+    right:30%;
+    transform: skew(19deg);
+   
+    
+    
+}
+.box10{
+    background-color: pink;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    bottom:30%;
+    right: 65%;
+    position: absolute;
+    z-index: -1;
+    
+}
+.box11{
+    background-color: pink;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    bottom:30%;
+    left:65%;
+    position: absolute;
+    z-index: -1;
+    
+}
+.box12{
+    background-color:black;
+    height: 50px;
+    width: 50px;
+    border-top-left-radius:0%;
+    border-top-right-radius: 0%;
+    border-bottom-left-radius:48% ;
+    border-bottom-right-radius:48% ;
+    bottom:30%;
+    left:45%;
+    position: absolute;
+    z-index: -1;
+    /* transform:skew(50deg) */
+    
+}
+.box13{
+    background-color:rgb(246, 248, 248);
+    height: 50px;
+    width: 60px;
+    border-top-left-radius:0%;
+    border-top-right-radius: 0%;
+    border-bottom-left-radius:0% ;
+    border-bottom-right-radius:0% ;
+    bottom:35%;
+    left:44%;
+    position: absolute;
+    z-index: -1;
+    /* transform:skew(50deg) */
+    
+}

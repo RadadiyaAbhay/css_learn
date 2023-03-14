@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1  p {
+    color: rgb(191, 26, 26) ;
+}
+ul li{
+    list-style: none;
+    background-color: aliceblue;
+}
+ol li:nth-child(2n+1){
+    background-color: rgb(144, 88, 16);
+}

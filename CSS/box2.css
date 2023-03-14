@@ -1,0 +1,11 @@
+*{
+   box-sizing: border-box;
+}
+.box{
+    background-color: black;
+    width: 1140px;
+    height:auto;
+    padding: 10px;
+    margin:auto;
+    
+}

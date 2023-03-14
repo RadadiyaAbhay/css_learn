@@ -1,0 +1,20 @@
+h1{
+    color:rgb(41, 182, 95);
+    text-align:center;
+    font-size: 5em;
+    font-weight: 500;
+    text-decoration:underline;
+    letter-spacing:10px;
+    word-spacing: 20px;
+}
+.p2{ color:rgb(226, 0, 0);
+    text-align:center;
+    font-size: 5em;
+    font-weight: 500;
+    text-decoration:underline;
+    letter-spacing:10px;
+    word-spacing: 20px;
+    line-height:100px;
+    text-transform: lowercase;
+
+}
